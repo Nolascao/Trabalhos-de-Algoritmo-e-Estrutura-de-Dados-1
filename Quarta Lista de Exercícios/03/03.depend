@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590352424 source:c:\users\matheus\desktop\03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MB_Ex01e02.h"
+	<math.h>
+
+1590342906 c:\users\matheus\desktop\03\mb_ex01e02.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590352492 source:c:\users\matheus\desktop\03\mb_ex01e02.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
