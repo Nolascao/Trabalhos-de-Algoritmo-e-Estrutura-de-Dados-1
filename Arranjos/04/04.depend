@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591274180 source:c:\users\matheus\desktop\arranjos\04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<math.h>
+
